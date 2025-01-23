@@ -1,1 +1,1 @@
-Perform CRUD operations using SpringBoot.
+Perform CRUD operations on database using SpringBoot.
